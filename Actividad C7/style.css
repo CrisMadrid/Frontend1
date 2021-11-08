@@ -1,0 +1,19 @@
+.titulo_principal{
+    text-align: center;
+    background-color:darksalmon;
+    color: aliceblue;
+}
+.titulos_secundarios{
+    color: aliceblue;
+    background-color: darksalmon;
+}
+.Esilo_subtitulos{
+    font-weight: bold;
+}
+
+.estilo_footer {
+    background-color: rgb(221, 213, 213);
+    text-align: center;
+    font-style: italic;
+
+}
